@@ -14,7 +14,7 @@ int main ()
       scanf ("%d", &n3);
       
       sum = n1 + n2 + n3;
-      printf ("The sum of %d and %d and %d is %d, have a nice day!", n1, n2, n3, sum);
+      printf ("The sum of %d , %d and %d is %d, have a nice day!", n1, n2, n3, sum);
              return0;
              
              }
